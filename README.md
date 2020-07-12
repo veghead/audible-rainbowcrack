@@ -5,10 +5,11 @@ An open source tool for cracking audible activation_bytes using rainbow tables.
 It is designed to be built and run on u.&ast;x machines including Linux and MacOS.
 This repository also contains the rainbow tables required.
 
-With this tool you may used `ffmpeg` to convert AAX files to other formats so 
-that you may play your Audible books on unsupported devices.
+With this tool you may use `ffmpeg` to convert AAX files to other formats so 
+that you can play your Audible books on unsupported devices.
 
-I did not write this tool, instead I cobbled together the code from these places:
+I did not write this tool, I just cobbled it together with 
+code from these places:
 
 - https://github.com/BlackArch/rainbowcrack.git
 - https://github.com/inAudible-NG/tables
