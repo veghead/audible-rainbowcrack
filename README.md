@@ -45,7 +45,7 @@ ffprobe version 4.1.4 Copyright (c) 2007-2019 the FFmpeg developers
 ```
 That "file checksum" (`b8f54c7aa84328b6d90fc3411d8389edf78f2550` in this case) is the hash you need.
 
-Next run audible-crack by supplied the path to the rainbow tables and the hash. E.g.
+Next run audible-crack by supplying the path to the rainbow tables and the hash. E.g.
 
 ```
 ./audible-crack ./audible-tables/*.rt b8f54c7aa84328b6d90fc3411d8389edf78f2550
