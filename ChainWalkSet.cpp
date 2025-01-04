@@ -9,6 +9,7 @@
 #endif
 
 #include "ChainWalkSet.h"
+#include <string.h>
 
 CChainWalkSet::CChainWalkSet()
 {
